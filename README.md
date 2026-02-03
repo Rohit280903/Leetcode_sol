@@ -12,5 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 | [3099-harshad-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/3099-harshad-number) |
+## Greedy
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
+## Sorting
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
