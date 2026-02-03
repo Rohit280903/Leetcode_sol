@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
