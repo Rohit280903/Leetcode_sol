@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Rohit280903/Leetcode_sol/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/0180-consecutive-numbers) |
 ## Simulation
 |  |
