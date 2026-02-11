@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
