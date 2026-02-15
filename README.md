@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/Rohit280903/Leetcode_sol/tree/master/0550-game-play-analysis-iv) |
 | [1045-customers-who-bought-all-products](https://github.com/Rohit280903/Leetcode_sol/tree/master/1045-customers-who-bought-all-products) |
 | [1164-product-price-at-a-given-date](https://github.com/Rohit280903/Leetcode_sol/tree/master/1164-product-price-at-a-given-date) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Rohit280903/Leetcode_sol/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## Simulation
 |  |
 | ------- |
