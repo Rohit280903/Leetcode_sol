@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 | [3099-harshad-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/3099-harshad-number) |
 ## Greedy
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 ## Divide and Conquer
 |  |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
