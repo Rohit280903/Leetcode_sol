@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/Rohit280903/Leetcode_sol/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/Rohit280903/Leetcode_sol/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/Rohit280903/Leetcode_sol/tree/master/0550-game-play-analysis-iv) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Rohit280903/Leetcode_sol/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Rohit280903/Leetcode_sol/tree/master/0626-exchange-seats) |
