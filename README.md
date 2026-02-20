@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Binary Search
 |  |
 | ------- |
