@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 | [3099-harshad-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/3099-harshad-number) |
 ## Greedy
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/0693-binary-number-with-alternating-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
