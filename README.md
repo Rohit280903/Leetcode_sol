@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 ## Database
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
