@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
