@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Rohit280903/Leetcode_sol/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Rohit280903/Leetcode_sol/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Rohit280903/Leetcode_sol/tree/master/1045-customers-who-bought-all-products) |
+| [1158-market-analysis-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Rohit280903/Leetcode_sol/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Rohit280903/Leetcode_sol/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/Rohit280903/Leetcode_sol/tree/master/1321-restaurant-growth) |
