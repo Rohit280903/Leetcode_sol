@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/1025-divisor-game) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Rohit280903/Leetcode_sol/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
