@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Rohit280903/Leetcode_sol/tree/master/1791-find-center-of-star-graph) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
