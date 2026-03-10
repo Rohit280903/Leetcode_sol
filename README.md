@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 ## Database
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
