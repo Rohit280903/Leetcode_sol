@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 ## Divide and Conquer
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
+| [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -130,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
