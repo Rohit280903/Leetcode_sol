@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Rohit280903/Leetcode_sol/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Rohit280903/Leetcode_sol/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/Rohit280903/Leetcode_sol/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Rohit280903/Leetcode_sol/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Rohit280903/Leetcode_sol/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Rohit280903/Leetcode_sol/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/Rohit280903/Leetcode_sol/tree/master/1393-capital-gainloss) |
