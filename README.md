@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Rohit280903/Leetcode_sol/tree/master/2119-a-number-after-a-double-reversal) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 ## Database
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/1025-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Counting
 |  |
 | ------- |
