@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [3248-snake-in-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/3248-snake-in-matrix) |
