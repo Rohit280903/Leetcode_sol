@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rohit280903/Leetcode_sol/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rohit280903/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit280903/Leetcode_sol/tree/master/0326-power-of-three) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rohit280903/Leetcode_sol/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Rohit280903/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit280903/Leetcode_sol/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
