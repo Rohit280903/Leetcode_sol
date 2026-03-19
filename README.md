@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit280903/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit280903/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
@@ -173,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohit280903/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
