@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rohit280903/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit280903/Leetcode_sol/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/1025-divisor-game) |
