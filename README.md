@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
+| [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit280903/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [3248-snake-in-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/3248-snake-in-matrix) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Brainteaser
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit280903/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
