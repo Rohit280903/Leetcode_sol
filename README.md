@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit280903/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Rohit280903/Leetcode_sol/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rohit280903/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit280903/Leetcode_sol/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Rohit280903/Leetcode_sol/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
