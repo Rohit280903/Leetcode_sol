@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rohit280903/Leetcode_sol/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rohit280903/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit280903/Leetcode_sol/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Rohit280903/Leetcode_sol/tree/master/0367-valid-perfect-square) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit280903/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rohit280903/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit280903/Leetcode_sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
