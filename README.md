@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rohit280903/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rohit280903/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit280903/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit280903/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0055-jump-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohit280903/Leetcode_sol/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit280903/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
