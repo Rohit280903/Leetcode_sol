@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/Rohit280903/Leetcode_sol/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/Rohit280903/Leetcode_sol/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/Rohit280903/Leetcode_sol/tree/master/1907-count-salary-categories) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/Rohit280903/Leetcode_sol/tree/master/3475-dna-pattern-recognition) |
 ## Simulation
 |  |
