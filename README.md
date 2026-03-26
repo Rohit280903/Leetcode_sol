@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit280903/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit280903/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Rohit280903/Leetcode_sol/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rohit280903/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
@@ -260,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rohit280903/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Rohit280903/Leetcode_sol/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rohit280903/Leetcode_sol/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
