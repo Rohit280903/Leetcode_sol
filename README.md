@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rohit280903/Leetcode_sol/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohit280903/Leetcode_sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit280903/Leetcode_sol/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohit280903/Leetcode_sol/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/3248-snake-in-matrix) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 ## Divide and Conquer
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rohit280903/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Rohit280903/Leetcode_sol/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohit280903/Leetcode_sol/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
