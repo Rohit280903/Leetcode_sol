@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/3099-harshad-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rohit280903/Leetcode_sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rohit280903/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rohit280903/Leetcode_sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
