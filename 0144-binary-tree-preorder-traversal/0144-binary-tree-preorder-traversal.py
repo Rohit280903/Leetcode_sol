@@ -1,0 +1,34 @@
+# # Definition for a binary tree node.
+# # class TreeNode:
+# #     def __init__(self, val=0, left=None, right=None):
+# #         self.val = val
+# #         self.left = left
+# #         self.right = right
+# class Solution:
+#     ans = []
+#     def preorder(self, root):
+#         if root == None:
+#             return
+#         self.ans.append(root.val)
+#         self.preorder(root.left)
+#         self.preorder(root.right)
+#     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+#         self.ans = []
+#         self.preorder(root)
+#         return self.ans
+class Solution:
+    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        ans = []
+        
+        # Nested helper function to keep 'ans' local to this specific call
+        def preorder(node):
+            if not node:
+                return
+            
+            # Root -> Left -> Right logic
+            ans.append(node.val)
+            preorder(node.left)
+            preorder(node.right)
+            
+        preorder(root)
+        return ans
