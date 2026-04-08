@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Rohit280903/Leetcode_sol/tree/master/1046-last-stone-weight) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rohit280903/Leetcode_sol/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Rohit280903/Leetcode_sol/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
