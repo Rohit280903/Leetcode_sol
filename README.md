@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit280903/Leetcode_sol/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rohit280903/Leetcode_sol/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [3151-special-array-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/3151-special-array-i) |
 | [3248-snake-in-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/3248-snake-in-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/2578-split-with-minimum-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohit280903/Leetcode_sol/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rohit280903/Leetcode_sol/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohit280903/Leetcode_sol/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rohit280903/Leetcode_sol/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3248-snake-in-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/3248-snake-in-matrix) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 ## Divide and Conquer
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rohit280903/Leetcode_sol/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rohit280903/Leetcode_sol/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
