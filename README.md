@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rohit280903/Leetcode_sol/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rohit280903/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohit280903/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/1025-divisor-game) |
