@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rohit280903/Leetcode_sol/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit280903/Leetcode_sol/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rohit280903/Leetcode_sol/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rohit280903/Leetcode_sol/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rohit280903/Leetcode_sol/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
