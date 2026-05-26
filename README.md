@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rohit280903/Leetcode_sol/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0796-rotate-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
