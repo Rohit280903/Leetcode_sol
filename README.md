@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Rohit280903/Leetcode_sol/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/Rohit280903/Leetcode_sol/tree/master/0550-game-play-analysis-iv) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Rohit280903/Leetcode_sol/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0607-sales-person](https://github.com/Rohit280903/Leetcode_sol/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/Rohit280903/Leetcode_sol/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Rohit280903/Leetcode_sol/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/1068-product-sales-analysis-i) |
