@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rohit280903/Leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rohit280903/Leetcode_sol/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Rohit280903/Leetcode_sol/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohit280903/Leetcode_sol/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rohit280903/Leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Prefix Sum
 |  |
 | ------- |
