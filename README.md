@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rohit280903/Leetcode_sol/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Rohit280903/Leetcode_sol/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rohit280903/Leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
