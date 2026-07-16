@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Rohit280903/Leetcode_sol/tree/master/1046-last-stone-weight) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rohit280903/Leetcode_sol/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2126-destroying-asteroids](https://github.com/Rohit280903/Leetcode_sol/tree/master/2126-destroying-asteroids) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rohit280903/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Rohit280903/Leetcode_sol/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Rohit280903/Leetcode_sol/tree/master/2784-check-if-array-is-good) |
