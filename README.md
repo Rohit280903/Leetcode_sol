@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rohit280903/Leetcode_sol/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Rohit280903/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohit280903/Leetcode_sol/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rohit280903/Leetcode_sol/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rohit280903/Leetcode_sol/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rohit280903/Leetcode_sol/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohit280903/Leetcode_sol/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rohit280903/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohit280903/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohit280903/Leetcode_sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohit280903/Leetcode_sol/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
