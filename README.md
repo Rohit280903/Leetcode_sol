@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rohit280903/Leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4024-nearest-available-drone](https://github.com/Rohit280903/Leetcode_sol/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit280903/Leetcode_sol/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4024-nearest-available-drone](https://github.com/Rohit280903/Leetcode_sol/tree/master/4024-nearest-available-drone) |
 ## Sliding Window
 |  |
 | ------- |
