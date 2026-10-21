@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Rohit280903/Leetcode_sol/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3903-smallest-stable-index-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rohit280903/Leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4024-nearest-available-drone](https://github.com/Rohit280903/Leetcode_sol/tree/master/4024-nearest-available-drone) |
 ## Binary Search
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rohit280903/Leetcode_sol/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohit280903/Leetcode_sol/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Rohit280903/Leetcode_sol/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
