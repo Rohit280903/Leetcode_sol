@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/Rohit280903/Leetcode_sol/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3903-smallest-stable-index-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rohit280903/Leetcode_sol/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4020-elevator-requests-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Rohit280903/Leetcode_sol/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rohit280903/Leetcode_sol/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3248-snake-in-matrix](https://github.com/Rohit280903/Leetcode_sol/tree/master/3248-snake-in-matrix) |
 | [3379-transformed-array](https://github.com/Rohit280903/Leetcode_sol/tree/master/3379-transformed-array) |
+| [4020-elevator-requests-i](https://github.com/Rohit280903/Leetcode_sol/tree/master/4020-elevator-requests-i) |
 ## Divide and Conquer
 |  |
 | ------- |
